@@ -1,0 +1,11 @@
+D:\pemrograman semester 2\tugas\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.exe
+D:\pemrograman semester 2\tugas\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.deps.json
+D:\pemrograman semester 2\tugas\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.runtimeconfig.json
+D:\pemrograman semester 2\tugas\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.runtimeconfig.dev.json
+D:\pemrograman semester 2\tugas\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.dll
+D:\pemrograman semester 2\tugas\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.pdb
+D:\pemrograman semester 2\tugas\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.csprojAssemblyReference.cache
+D:\pemrograman semester 2\tugas\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.AssemblyInfoInputs.cache
+D:\pemrograman semester 2\tugas\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.AssemblyInfo.cs
+D:\pemrograman semester 2\tugas\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.dll
+D:\pemrograman semester 2\tugas\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.pdb
